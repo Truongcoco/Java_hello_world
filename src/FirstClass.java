@@ -4,6 +4,8 @@ public class FirstClass {
 
         boolean isAilien =false;
         if(isAilien==false);
-        System.out.println("It not an Ailien");
+        {
+            System.out.println("It not an Ailien");
+        }
     }
 }
